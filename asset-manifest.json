@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21ee3059.css",
+    "main.js": "/static/js/main.fb3abf41.js",
+    "static/media/high-temperature.png": "/static/media/high-temperature.16a49c72405eaa440270.png",
+    "static/media/low-temperature.png": "/static/media/low-temperature.72315932108b30ef8633.png",
+    "static/media/pin.png": "/static/media/pin.8210970acff9062a268b.png",
+    "static/media/error.gif": "/static/media/error.f507b86b6a358b59d97c.gif",
+    "static/media/sunny.png": "/static/media/sunny.05f5b16a0e3604e3a3c3.png",
+    "static/media/cloudy.png": "/static/media/cloudy.a6d0b7d87d2022baaf47.png",
+    "index.html": "/index.html",
+    "main.21ee3059.css.map": "/static/css/main.21ee3059.css.map",
+    "main.fb3abf41.js.map": "/static/js/main.fb3abf41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ee3059.css",
+    "static/js/main.fb3abf41.js"
+  ]
+}
